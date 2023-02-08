@@ -1,4 +1,4 @@
-.number-one {color: lightpink;
+.number-one {background-color: lightpink;
     font-family: Verdana, DejaVu Sans, sans-serif;}
 
     #number-two {
@@ -6,6 +6,6 @@
         font-size: 36px;
     }
 
-.number-three {color: lightpink;
+.number-three {background-color: lightpink;
     font-family: Verdana, DejaVu Sans, sans-serif;
     font-size: 24px;}
