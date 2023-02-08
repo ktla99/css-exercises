@@ -1,4 +1,4 @@
-.number-one {background-color: lightpink;
+.odd {background-color: lightpink;
     font-family: Verdana, "DejaVu Sans", sans-serif;}
 
     #number-two {
@@ -6,13 +6,7 @@
         font-size: 36px;
     }
 
-.number-three {background-color: lightpink;
-    font-family: Verdana, "DejaVu Sans", sans-serif;
-    font-size: 24px;}
 
     #number-four {background-color: lightgreen;
         font-size: 24px;
         font-weight: bold;}
-
-.number-five {background-color: lightpink;
-    font-family: Verdana, "DejaVu Sans", sans-serif;}
