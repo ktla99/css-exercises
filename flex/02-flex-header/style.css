@@ -20,7 +20,7 @@ ul {
   display: flex;
   flex-direction: row;
   padding: 15px;
-  gap: 5px;
+  gap: 20px;
 }
 
 a {
@@ -30,5 +30,4 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
   display: flex;
-  gap: 5px;
 }
