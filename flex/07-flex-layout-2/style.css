@@ -23,6 +23,7 @@ body {
 
 .sidebar {
   width: 300px;
+  display: flex;
   background: royalblue;
 }
 
