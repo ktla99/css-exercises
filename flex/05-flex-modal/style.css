@@ -47,6 +47,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-left: auto;
 }
 
 button {
@@ -72,5 +73,6 @@ button.cancel {
 }
 
 .header {
-  font-weight: bold;
+  font-weight: bolder;
+  font-size: 22px;
 }
