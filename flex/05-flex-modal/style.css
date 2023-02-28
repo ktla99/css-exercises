@@ -67,10 +67,6 @@ button.cancel {
   color: royalblue;
 }
 
-.middle {
-  display: flex;
-  gap: 20px;
-}
 
 .header {
   display: flex;
