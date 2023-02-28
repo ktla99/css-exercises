@@ -36,10 +36,12 @@ input {
   display: flex;
   flex-direction: row;
   list-style-type: none;
+  gap: 15px;
 }
 
 .right-links {
   display: flex;
   flex-direction: row;
   list-style-type: none;
+  gap: 15px;
 }
