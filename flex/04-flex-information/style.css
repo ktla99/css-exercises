@@ -20,6 +20,7 @@ img {
 .plant {
   display: flex;
   align-items: center;
+  gap: 52px;
 }
 
 /* do not edit this footer */
