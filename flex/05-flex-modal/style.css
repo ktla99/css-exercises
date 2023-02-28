@@ -81,9 +81,7 @@ button.cancel {
 }
 
 .text {
-  display: flex;
-  align-items: center;
-  padding: 20px;
+ margin-bottom: 20px;
 }
 
 .middle {
