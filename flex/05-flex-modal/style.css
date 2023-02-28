@@ -74,6 +74,7 @@ button.cancel {
   justify-content: space-between;
   font-weight: bolder;
   font-size: 22px;
+  margin-bottom: 8px;
 }
 
 .text {
