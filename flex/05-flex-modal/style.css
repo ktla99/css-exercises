@@ -69,3 +69,7 @@ button.cancel {
 .top {
   display: flex;
 }
+
+.header {
+  font-weight: bold;
+}
