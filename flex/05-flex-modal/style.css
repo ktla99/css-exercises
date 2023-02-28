@@ -76,3 +76,9 @@ button.cancel {
   font-weight: bolder;
   font-size: 22px;
 }
+
+.text {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
