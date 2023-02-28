@@ -33,7 +33,5 @@ body {
 }
 
 .boxes {
-  flex: 3;
   display: flex;
-
 }
