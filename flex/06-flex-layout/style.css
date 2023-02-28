@@ -32,10 +32,14 @@ input {
   margin-bottom: 16px;
 }
 
-.left-links, .right-links {
+.left-links {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
   list-style-type: none;
 }
 
+.right-links {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}
