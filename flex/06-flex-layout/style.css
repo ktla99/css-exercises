@@ -43,3 +43,20 @@ input {
   justify-content: space-between;
   padding: 16px;
 }
+
+.footer {
+  background: #eee;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 16px;
+}
+
+a {
+  color: #666;
+  text-decoration: none;
+}
