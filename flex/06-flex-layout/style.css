@@ -38,10 +38,12 @@ input {
   flex-direction: row;
   list-style-type: none;
   gap: 15px;
+  justify-content: right;
 }
 
 .content {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: right;
 }
