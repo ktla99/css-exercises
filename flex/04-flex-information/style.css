@@ -19,6 +19,7 @@ img {
 
 .plant {
   display: flex;
+  align-items: center;
 }
 
 /* do not edit this footer */
