@@ -18,6 +18,7 @@ body {
   width: 300px;
   display: flex;
   background: royalblue;
+  font-size: 24px;
 }
 
 .card {
