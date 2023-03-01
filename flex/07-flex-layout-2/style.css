@@ -10,7 +10,9 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
-  font-weight: 700;
+  font-weight: 900;
+  font-size: 32px;
+  padding: 0 16px;
 }
 
 .footer {
