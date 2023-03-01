@@ -4,12 +4,14 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  flex: 1;
 }
 
 .header {
   height: 72px;
   background: darkmagenta;
   color: white;
+  font-weight: 700;
 }
 
 .footer {
