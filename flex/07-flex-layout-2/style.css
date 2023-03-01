@@ -30,7 +30,9 @@ body {
   flex-shrink: 0;
 }
 
-
+ul {
+  list-style: none;
+}
 
 .card {
   border: 1px solid #eee;
