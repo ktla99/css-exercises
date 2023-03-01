@@ -4,7 +4,6 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  flex: 1;
 }
 
 .header {
@@ -31,6 +30,8 @@ body {
   display: flex;
   flex-shrink: 0;
 }
+
+
 
 .card {
   border: 1px solid #eee;
