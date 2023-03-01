@@ -48,7 +48,8 @@ a {
 .container {
   display: flex;
   justify-content: space-between;
-  padding: 22px;
+  padding: 32px;
+  flex-wrap: wrap;
 }
 
 .body {
