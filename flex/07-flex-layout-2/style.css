@@ -55,3 +55,7 @@ a {
   flex: 1;
   display: flex;
 }
+
+li {
+  margin-bottom: 16px;
+}
