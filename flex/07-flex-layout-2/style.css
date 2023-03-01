@@ -49,6 +49,9 @@ a {
   display: flex;
   justify-content: space-between;
   padding: 22px;
- 
-  
+}
+
+.body {
+  flex: 1;
+  display: flex;
 }
